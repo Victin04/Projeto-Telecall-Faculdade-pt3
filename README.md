@@ -44,7 +44,7 @@ Projeto desenvolvido como parte das atividades do curso de Análise e Desenvolvi
 
 📌 Observações
 
-Este projeto não possui integração com backend ou banco de dados.
+Neste repositorio o projeto ainda não possui integração com backend ou banco de dados.
 
 As funcionalidades de login e cadastro são apenas visuais.
 
